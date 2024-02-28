@@ -81,7 +81,7 @@ Data loading and inspection:
 
 ### 2. Data Processing
  
- Creation of customized columns utilizing the DAY(), WEEKEND(), and IF() formulas. 
+ Creation of customized columns utilizing the DAY(), WEEKDAY(), and IF() formulas. 
 
 ### 3. Data Analysis 
 
