@@ -178,6 +178,7 @@ Questions the client has that can now be answered.
 
 
 ### Results from Findings
+---
 
 The analysis results are summarized as follows:
 
@@ -189,6 +190,7 @@ The analysis results are summarized as follows:
 3. There seems to be a correlation between calls that have a negative sentiment and those falling below the SLA. Most of the calls come in through the call center channel on weekdays, and the reason type is either billing questions or payment. This is the case for all call centers.
 
 ### Recommendations
+---
 
 Based on the analysis, we recommend the following actions:
 
