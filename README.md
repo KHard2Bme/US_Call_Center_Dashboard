@@ -12,6 +12,16 @@
 - [Results from Findings](#results-from-findings)
 - [Recommendations](#recommendations)
 
+![summary](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/6ff2ab9b-acf1-4423-adf9-4d093e6a2a44)
+
+![baltimore](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/624c650f-fd49-4dbc-bd93-8fbd3bf84a7a)
+
+![chicago](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/8cdce0d8-66b2-46f3-90d9-2e532dbdca37)
+
+![denver](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/da371871-1b0a-42b9-b184-d5a10651484e)
+
+![losangeles](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/9058d497-58f9-47ab-b9c9-ba97c9aa3eef)
+
 
 ### Project Overview
 ---
