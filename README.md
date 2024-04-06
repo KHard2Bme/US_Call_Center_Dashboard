@@ -64,8 +64,8 @@ Call Center Data: The primary dataset used for this analysis is the "Call_Center
 
 ### Tools
 ---
-- Python -
-- Excel - Data Cleaning, processing, analysis, report and dashboard creation.
+- pandas, numpy, matplotlib, seaborn. 
+- Excel - Report and dashboard creation.
 
 
 
