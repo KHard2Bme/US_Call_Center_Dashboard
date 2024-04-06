@@ -24,6 +24,8 @@ By analyzing various aspects of the data, I seek to identify trends, make data-d
 I will also perform Exploratory Data Analysis on the dataset to answer a few questions derived along the way.</b>
 
 
+
+
 ### Requirements
 ---
 ![summary](https://github.com/KHard2Bme/US_Call_Center_Dashboard_Excel/assets/146769989/878e7299-f50b-4a47-aa4a-10a7f88166cc)
@@ -64,33 +66,16 @@ Call Center Data: The primary dataset used for this analysis is the "Call_Center
 
 ### Tools
 ---
-- pandas, numpy, matplotlib, seaborn. 
-- Excel - Report and dashboard creation.
+- <b>pandas, numpy, matplotlib, seaborn.</b> 
+- <b>Microsoft Excel</b>
 
 
+
+I will be using python to clean, process, and analyze the dataset (Detailed steps will be shown within the Jupyter Notebook).
+
+I will be using Excel to create reports and automated dashboard.
 
       
-## Data Pipeline
----
-
-### 1. Data Cleaning
-
-Data loading and inspection:
-- Checking column header and rows for correct spelling, null values, extra spaces, datatypes and duplicates.
-
-### 2. Data Processing
- 
- Creation of customized columns utilizing the DAY(), WEEKDAY(), and IF() formulas. 
-
-### 3. Data Analysis 
-
-Creation of Pivot tables, basic and customized charts while using IFERROR() formula to resolve #REF errors.
-
-### 4. Report/Dashboard
-
-Building of the dashboard as well as adding charts and slicers. 
- 
-
 
 ### Exploratory Data Analysis
 ---
