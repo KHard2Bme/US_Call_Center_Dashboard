@@ -6,7 +6,6 @@
 - [Requirements](#requirements)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Pipeline](#data-pipeline)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Summary of Findings](#summary-of-findings)
 - [Results from Findings](#results-from-findings)
@@ -29,6 +28,9 @@ I will also perform Exploratory Data Analysis on the dataset to answer a few que
 ### Requirements
 ---
 ![summary](https://github.com/KHard2Bme/US_Call_Center_Dashboard_Excel/assets/146769989/878e7299-f50b-4a47-aa4a-10a7f88166cc)
+![chicago](https://github.com/KHard2Bme/US_Call_Center_Dashboard_Excel/assets/146769989/62d2a442-04b0-44d8-aca4-8a6c432e8d2e)
+
+
 
 Client wants to have an automated dashboard for year 2020 so that they can have insight on the below requirements:
 
@@ -56,7 +58,9 @@ Client wants to have an automated dashboard for year 2020 so that they can have 
 
               a.) Call day
               b.) Call center
-              c.) Day of week  
+              c.) Weekday or Weekend
+              d.) Sentiment
+              e.) Reason    
 
 ### Data Sources
 ---
@@ -71,49 +75,25 @@ Call Center Data: The primary dataset used for this analysis is the "Call_Center
 
 
 
-I will be using python to clean, process, and analyze the dataset (Detailed steps will be shown within the Jupyter Notebook).
+I will be using python to clean, process, and analyze the dataset (detailed steps will be shown within the Jupyter Notebook).
 
-I will be using Excel to create reports and automated dashboard.
+I will be using Excel to create reports and automated dashboard ( reports and dashboard provided in Call_Center.csv file).
 
       
 
 ### Exploratory Data Analysis
 ---
 Questions the client has that can now be answered.
-
-1. What is the total number of inbound calls received by call centers for the year 2020? By channel? By weekday and weekend?
-
-2. What is the average call duration for all inbound calls for the year 2020? Minimum and Maximum duration?
-
-3. Which call center received the most inbound calls during the year 2020? The least inbound calls?
- 
-4. Which sentiment ranks the highest amongst all inbound calls in 2020? Highest also by which reason type?
- 
-5. For Los Angeles, the sentiment that ranks the highest is negative which amounts to about 34% of total inbound calls; 4,601 calls out of 13,734. Billing questions is the reason type having the majority.
- 
-    - What 5 states and cities contain the highest number of callers who gave a negative sentiment within reason type billing questions?
-
-6. Denver CO is the call center that has received the least number of inbound calls in comparison to the others; roughly 8% of 2,776 calls. The sentiment that ranks the highest is also negative, which amounts for about 33% of total inbound calls; 912 calls out of 2,776. Billing questions is the reason type having the majority.
-
-     - What 5 states and cities contain the highest number of callers who gave a negative sentiment within reason type billing questions?
- 
-7. In regard to response time by call center; below/within/above SLA, below SLA accounts for 25% of all inbound calls.
-
-    The Los Angeles call center has the highest number of inbound calls which fall below SLA; 3,327 calls at 41%.
-   
-     -	Which calls fall below SLA by channel? By weekday and weekend?
-     -	Which calls have a duration of 5 min? 
-     -	Which calls have a duration of 45min? 
-     -	Which calls have an average duration of 25 min?
-
-8. The Baltimore MD call center has the second highest number of inbound calls which fall below SLA; 2,768 of calls at 34%.
- 
-   -	Which calls fall below SLA by channel? By weekday and weekend?
-   -	Which calls have a duration of 5 min? 
-   -	Which calls have a duration of 45min? 
-   -	Which calls have an average duration of 25 min? 
-
-
+1. What is the total number of calls received by call center? How many calls were received by each call center and percentage? weekday and weekend?</b>
+2. What is the total number of calls received by each channel?</b>
+3. Which day of the month received the most calls? The least?</b>
+4. Which day of the month received the most negatively ranked calls? Calls ranked as very negative?</b>
+5. Of the negatively ranked calls on Sept. 10, which call center received the most calls?</b>
+6. Of the very negative ranked calls on Sept. 17, which call center received the most calls?</b>
+7. How many total calls are in the Billing Question category? How many billing questions make up the negative and very negative categories?</b>
+8. How many total calls are ranked as negative and very negative? How many negative and very negative calls were received by the Los Angeles/CA call center?</b>
+9. What is the total number of calls categorized as below SLA, and how many were received by the Los Angeles/CA call center?</b>
+10. Which state has the most calls ranked negative, and what are the top 2 cities? Which state has the most calls ranked very negative, amd what are the top 2 cities?</b>
 
 
 ## Summary of Findings
