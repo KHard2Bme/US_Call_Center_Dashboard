@@ -97,46 +97,40 @@ Questions the client has that can now be answered.
 
 
 ## Summary of Findings
-1.
-   -  The total number of inbound calls received by all call centers for the year 2020 is 32,941.
-   -  By channel there are 19,639 received within Call Centers, 8,356 within Chatbots, 7,470 within emails and 6,576 on the web.
-   -  The total number of inbound calls received during the week is 23,073 while those received during the weekend are 9,866.
-  
-2. The average call duration is 25 minutes, the minimum is 5 minutes while the maximum call duration is 45 minutes.
 
+Question #1: 
+What is the total number of calls received by call center?
+How many calls were received by each call center and percentage? weekday and weekend?
 
-3.  - Los Angeles call center received 13,734 inbound calls during the year 2020: about 42%.
+Question #2: 
+What is the total number of calls received by each channel?
 
-    - Denver call center received 2,776 inbound calls during the year 2020: about 8%.
- 
-4.
-   -  Wednesday, October 21 received 1,170 inbound calls in the year 2020. The total call duration was 28,994 minutes (483 hours) and the average call duration 
-       was 25 minutes.
-   -   Friday, October 31 received only 1 call in year 2020. The call was received at the Chicago IL call center from a Sashenka Cauley who called in from 
-       Sacramento Ca. The call sentiment was very positive and the reason for call being billing question. The call duration was 13 minutes.  
-     
- 
-5. 
-    - States: California 370, Texas 365, Florida 266 and New York 169
-    - Cities: Washington 111, Houston 74, New York city 53, Dallas 52 and Atlanta 45
+Question #3: 
+Which day of the month received the most calls? The least?
 
-6.
-   - States: California 73, Florida 65, New York 33, Ohio 25 and District of Columbia 24
-   - Cities: Washington 24, El Paso 13, Houston 13, Dallas 12 and Birmingham 9
+Question #4: 
+Which day of the month received the most negatively ranked calls? Calls ranked as very negative?
 
-7.  
-    - By channel we have: Call center 1092, Chatbot 840, email 737 and web 658
-    - There are 759 inbound calls on weekday and 333 inbound calls by weekend.
-    - 87 calls have a duration of 5 minutes
-    - 82 calls have a duration of 45 minutes
-    - 86 calls have an average duration of 25 minutes
+Question #5: 
+Of the negatively ranked calls on Sept. 10, which call center received the most calls?
 
-8.    
-    - By channel we have: Call center 902, Chatbot 674, email 604 and web588
-    - There are 637 inbound calls on weekday and 265 inbound calls by weekend.
-    -	 71 calls have a duration of 5 minutes
-    -	 61 calls have a duration of 45 minutes
-    -	 64 calls have an average duration of 25 minutes
+Question #6: 
+Of the very negative ranked calls on Sept. 17, which call center received the most calls?
+
+Question #7: 
+How many total calls are in the Billing Question category?
+How many billing questions make up the negative and very negative categories?
+
+Question #8: 
+How many total calls are ranked as negative and very negative?
+How many negative and very negative calls were received by the Los Angeles/CA call center?
+
+Question #9: 
+What is the total number of calls categorized as below SLA, and how many were received by the Los Angeles/CA call center?
+
+Question #10: 
+Which state has the most calls ranked negative, and what are the top 2 cities?
+Which state has the most calls ranked very negative, amd what are the top 2 cities?
 
 
 
