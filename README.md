@@ -12,34 +12,29 @@
 - [Results from Findings](#results-from-findings)
 - [Recommendations](#recommendations)
 
-![summary](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/6ff2ab9b-acf1-4423-adf9-4d093e6a2a44)
-
-![baltimore](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/624c650f-fd49-4dbc-bd93-8fbd3bf84a7a)
-
-![chicago](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/8cdce0d8-66b2-46f3-90d9-2e532dbdca37)
-
-![denver](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/da371871-1b0a-42b9-b184-d5a10651484e)
-
-![losangeles](https://github.com/KHard2Bme/US_Call_Center_Dashboard/assets/146769989/9058d497-58f9-47ab-b9c9-ba97c9aa3eef)
 
 
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the performance of each call center over a one year period. By analyzing various aspects of the data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the performance of each call center over a one year period; Sept 1, 2020 through Sept 31, 2020 .</b> 
 
+By analyzing various aspects of the data, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.</b> 
 
-
+I will also perform Exploratory Data Analysis on the dataset to answer a few questions derived along the way.</b>
 
 
 ### Requirements
 ---
+![summary](https://github.com/KHard2Bme/US_Call_Center_Dashboard_Excel/assets/146769989/878e7299-f50b-4a47-aa4a-10a7f88166cc)
 
-Client wants to create a call center dashboard for year 2020 so that they can have insight on the below requirements.
+Client wants to have an automated dashboard for year 2020 so that they can have insight on the below requirements:
 
-- Primary KPI: Total inbound calls by call centers within the United States
+- Primary KPI:
 
-         Total inbound calls by channel:
+         a.) Total calls to Call Centers
+
+         b.) Total calls by channel:
              - Call center  
              - Chatbot  
              - Email
@@ -48,14 +43,18 @@ Client wants to create a call center dashboard for year 2020 so that they can ha
               
 - Secondary KPI:  
 
-              -  Report showing breakdown of inbound calls by call center  
-              .  Report showing breakdown of inbound calls by sentiment.  
-              -  Column chart showing breakdown of reason by sentiment.  
-              -  Column chart showing breakdown of response time by call center. 
-              -  Chart showing total count by reason of call
-               - Grid view dashboard allowing stakeholders to search for granular information in dataset and  download if needed
+              a.) Report showing calls by call center  
+              b.) Report showing calls by sentiment.  
+              c.) Column chart showing reason by sentiment.  
+              d.) Column chart showing response time by call center. 
+              e.) Chart showing total count by reason of call
+              f.) Grid view dashboard allowing stakeholders to search for granular information in dataset and  download if needed.
 
+- Filters:
 
+              a.) Call day
+              b.) Call center
+              c.) Day of week  
 
 ### Data Sources
 ---
@@ -65,7 +64,7 @@ Call Center Data: The primary dataset used for this analysis is the "Call_Center
 
 ### Tools
 ---
-
+- Python -
 - Excel - Data Cleaning, processing, analysis, report and dashboard creation.
 
 
